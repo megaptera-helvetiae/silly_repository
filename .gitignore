@@ -1,0 +1,4 @@
+/data/*/*
+!data/process/*
+!README.md
+code/mothur/*
